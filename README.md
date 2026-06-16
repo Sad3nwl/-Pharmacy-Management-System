@@ -1,6 +1,6 @@
 # 🏥 Pharmacy Management System
 
-## 📌 Project Overview
+##    Project Overview
 
 This project is a Java-based application designed to manage a pharmacy's inventory of medications and process patient prescriptions.
 It utilizes object-oriented programming to dynamically track different types of medicine.
@@ -27,8 +27,7 @@ Finally, the central `Pharmacy` hub processes these records, offering simple pri
 
 ---
  languge used:
-- Java (JDK 8+)[cite: 1, 4]
- 
+- Java (JDK 8+) 
 ---
 
 # 📂 Project Structure
