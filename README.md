@@ -25,10 +25,6 @@ When a patient visits the pharmacy, the user can create a dynamic digital `Presc
 Multiple medical items can then be assigned directly to that specific patient record.
 Finally, the central `Pharmacy` hub processes these records, offering simple print utilities to review overall store inventory or verify outstanding patient scripts in a structured, readable layout .
 
----
- languge used:
-- Java (JDK 8+) 
----
 
 # 📂 Project Structure
 
