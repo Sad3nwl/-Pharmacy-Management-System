@@ -12,8 +12,6 @@ The project includes:
 - Abstract and Polymorphic Data Structures.
 - Console User Interface .
 
----
-
 ## 📝 Description
 
 The **Pharmacy Management System** is a command-line application built to streamline how small-scale pharmacies manage their active medical stock and match treatments with inbound patients. 
