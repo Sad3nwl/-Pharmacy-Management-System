@@ -34,9 +34,6 @@ The project repository consists of the following source files within the `sadoo`
 - `Pharmacy.java` — Coordinates global inventory lists and records issued prescriptions.
 - `Sadoo.java` — Main program class handling user inputs and application runtime execution .
 
-
----
-
 # 📊 Object-Oriented Programming Concepts Used
 
 - **Abstraction:** Implemented via abstract class structures and abstract display behaviors 
