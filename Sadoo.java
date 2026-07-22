@@ -1,4 +1,4 @@
- 
+//main class 
 package sadoo;
 
 import java.util.Scanner;
