@@ -10,7 +10,7 @@ The project includes:
 - Dynamic Inventory Tracking.
 - Patient Prescription Mapping.
 - Abstract and Polymorphic Data Structures.
-- Console User Interface .
+ 
 
 ## 📝 Description
 
