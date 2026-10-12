@@ -6,9 +6,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
 ---
-
 ### 📌 Project Overview
-
 A **Java-based console application** designed to manage a pharmacy’s inventory of medications and process patient prescriptions.  
 The system demonstrates strong Object-Oriented Programming principles while providing practical functionality for tracking stock and handling prescriptions.
 
